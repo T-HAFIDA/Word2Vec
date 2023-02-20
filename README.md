@@ -13,6 +13,8 @@
 #### https://datascientest.com/nlp-word-embedding-word2vec
 #### http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 
+In the following. . . . .
+
 
 
 
